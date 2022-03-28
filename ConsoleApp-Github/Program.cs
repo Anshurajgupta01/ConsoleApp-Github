@@ -10,7 +10,8 @@ namespace ConsoleApp_Github
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Branch 1 .....");          
+            Console.WriteLine(" Branch 1 .....");
+            Console.WriteLine("Adding a new Branch .....");
         }
     }
 }
