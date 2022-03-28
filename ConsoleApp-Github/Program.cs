@@ -12,7 +12,6 @@ namespace ConsoleApp_Github
         {
             Console.WriteLine(" Branch 1 .....");
             Console.WriteLine("New Branch...");
-            Console.WriteLine(" Changing my original repo using Fork .....");
         }
     }
 }
